@@ -10,10 +10,10 @@ body{
   overflow: hidden;
 }
 .card{
-  top:10%;
+  top:8%;
   left:15%;
   /* right:25%; */
-  height: 850px;
+  height: 760px;
   width: 50%;
   background-color:#e4c783;
   /* background: linear-gradient(to right, #2ecc71, #82e0aa); */
